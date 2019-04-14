@@ -18,5 +18,4 @@ g++ *.cpp
 ### Author
 *** Jakub Szwajka *** - all codding and idea stuff.
 
-Part of code to keyboard controll system (marked in code) is from: [StackOverflow]
-(https://stackoverflow.com/questions/7469139/what-is-the-equivalent-to-getch-getche-in-linux/7469410#7469410)
+Part of code to keyboard controll system (marked in code) is from: [StackOverflow](https://stackoverflow.com/questions/7469139/what-is-the-equivalent-to-getch-getche-in-linux/7469410#7469410)
